@@ -1,1 +1,4 @@
-wallpaper: resources/miku.jpg
+wallpaper: resources/image.jpg #the exact path to the image to use as wallpaper
+imagesDir: resources #the path to the list of images to use for the random choice
+fillMode: stretch #the filling mode of the wallpaper (stretch, fit, center, crop, span or tile)
+random: false #if true, then the image choosen as wallpaper is taken randomly from the imagesDir directory
